@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git://github.com/IjzerenHein/rtfToHtml.git"
   },
-  "main": "./rtfToHtml.js",
+  "main": "./rtf-to-html.js",
   "author": {
     "name": "Hein Rutjes <hrutjes@gmail.com>"
   },
